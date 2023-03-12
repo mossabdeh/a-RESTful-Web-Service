@@ -7,6 +7,9 @@
                  public record Greeting(long id, String content) { }
 #### + Create a Resource Controller 
          + In Spring’s approach to building RESTful web services, HTTP requests are handled by a controller
+         
+         + The service will handle GET requests for /greeting, optionally with a name parameter in the query string.
+         The GET request should return a 200 OK. response with JSON in the body that
 
          + A key difference between a traditional MVC controller and the RESTful web service controller 
              shown earlier is the way that the HTTP response body is created.
