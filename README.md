@@ -1,5 +1,5 @@
 # a-RESTful-Web-Service
-## HELLO World guide
+## Hello World guide
 ### How to complete this guide
 #### +  Starting with Spring Initializr ( select Spring Web dependencie )
 #### +  Create a Resource Representation Class
